@@ -1,0 +1,2 @@
+void post(char* order_of_user,int the_new_post_id,char* username_entered_by_user_for_login);
+sn_user* make_new_node_for_sn_msg(char* post_txt,int the_new_post_id,char* username_entered_by_user_for_login);

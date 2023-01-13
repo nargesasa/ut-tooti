@@ -1,0 +1,1 @@
+int recognition_the_order_of_user(char order_of_user[100],int condition);
